@@ -18,7 +18,7 @@ limitations under the License.
 [![Issue Stats](http://issuestats.com/github/ampproject/amphtml/badge/pr)](http://issuestats.com/github/ampproject/amphtml)
 [![Issue Stats](http://issuestats.com/github/ampproject/amphtml/badge/issue)](http://issuestats.com/github/ampproject/amphtml)
 
-# AMP HTML ⚡
+# cHTML 2015 a.k.a. AMP HTML ⚡
 
 AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.
 
